@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/env1/02-experiment-tracking/mlruns/0/1c1246460ac34a6ca15c7d77deeb62b9/artifacts
+end_time: 1719836041488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c1246460ac34a6ca15c7d77deeb62b9
+run_name: industrious-carp-233
+run_uuid: 1c1246460ac34a6ca15c7d77deeb62b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719835993132
+status: 3
+tags: []
+user_id: codespace

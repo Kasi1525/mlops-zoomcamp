@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/env1/02-experiment-tracking/mlruns/0/fadc370b13c048f68f9035e8b1754436/artifacts
+end_time: 1719835837300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fadc370b13c048f68f9035e8b1754436
+run_name: burly-sloth-521
+run_uuid: fadc370b13c048f68f9035e8b1754436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719835797397
+status: 3
+tags: []
+user_id: codespace

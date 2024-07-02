@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/env1/02-experiment-tracking/mlruns/0/503ce9aee28941b3bb330401f3367bb9/artifacts
+end_time: 1719835751660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 503ce9aee28941b3bb330401f3367bb9
+run_name: blushing-hawk-418
+run_uuid: 503ce9aee28941b3bb330401f3367bb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719835692839
+status: 3
+tags: []
+user_id: codespace

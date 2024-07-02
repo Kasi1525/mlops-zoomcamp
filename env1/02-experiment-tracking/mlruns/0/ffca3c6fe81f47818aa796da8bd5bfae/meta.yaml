@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/env1/02-experiment-tracking/mlruns/0/ffca3c6fe81f47818aa796da8bd5bfae/artifacts
+end_time: 1719835510533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffca3c6fe81f47818aa796da8bd5bfae
+run_name: rare-bass-574
+run_uuid: ffca3c6fe81f47818aa796da8bd5bfae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719835254869
+status: 3
+tags: []
+user_id: codespace

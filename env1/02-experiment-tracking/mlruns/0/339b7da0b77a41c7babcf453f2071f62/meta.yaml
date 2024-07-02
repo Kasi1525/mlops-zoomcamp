@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/env1/02-experiment-tracking/mlruns/0/339b7da0b77a41c7babcf453f2071f62/artifacts
+end_time: 1719836099584
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 339b7da0b77a41c7babcf453f2071f62
+run_name: gaudy-wren-101
+run_uuid: 339b7da0b77a41c7babcf453f2071f62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719836041496
+status: 4
+tags: []
+user_id: codespace

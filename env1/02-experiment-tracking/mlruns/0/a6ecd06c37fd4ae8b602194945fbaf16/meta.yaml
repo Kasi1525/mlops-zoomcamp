@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/env1/02-experiment-tracking/mlruns/0/a6ecd06c37fd4ae8b602194945fbaf16/artifacts
+end_time: 1719835797389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6ecd06c37fd4ae8b602194945fbaf16
+run_name: legendary-croc-209
+run_uuid: a6ecd06c37fd4ae8b602194945fbaf16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719835751681
+status: 3
+tags: []
+user_id: codespace

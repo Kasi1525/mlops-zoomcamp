@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/env1/02-experiment-tracking/mlruns/0/e2078fa6107a44e3aa95dfa2978cf4c4/artifacts
+end_time: 1719835692829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2078fa6107a44e3aa95dfa2978cf4c4
+run_name: glamorous-gull-527
+run_uuid: e2078fa6107a44e3aa95dfa2978cf4c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719835510542
+status: 3
+tags: []
+user_id: codespace

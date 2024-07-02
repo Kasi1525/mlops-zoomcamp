@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/env1/02-experiment-tracking/mlruns/0/6784a5dad9d24d70b426fed5a7a09e75/artifacts
+end_time: 1719834994285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6784a5dad9d24d70b426fed5a7a09e75
+run_name: youthful-stork-844
+run_uuid: 6784a5dad9d24d70b426fed5a7a09e75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719834991226
+status: 4
+tags: []
+user_id: codespace
