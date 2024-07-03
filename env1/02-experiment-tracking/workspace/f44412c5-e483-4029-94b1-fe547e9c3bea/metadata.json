@@ -1,0 +1,15 @@
+{
+  "id": "f44412c5-e483-4029-94b1-fe547e9c3bea",
+  "name": "student performance project",
+  "description": null,
+  "dashboard": {
+    "name": "student performance project",
+    "panels": [],
+    "tabs": [],
+    "tab_id_to_panel_ids": {}
+  },
+  "team_id": null,
+  "date_from": null,
+  "date_to": null,
+  "created_at": "2024-07-03T04:29:39.929776"
+}
