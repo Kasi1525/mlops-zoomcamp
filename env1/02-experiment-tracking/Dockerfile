@@ -19,4 +19,4 @@ RUN mkdir models
 
 EXPOSE 5011
 
-ENTRYPOINT [ "gunicorn", "--bind=0.0.0.0:5011", "app:app" ]
+#ENTRYPOINT [ "gunicorn", "--bind=0.0.0.0:5011", "app:app" ]
